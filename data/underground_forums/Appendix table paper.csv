@@ -1,0 +1,70 @@
+Websites,Underground / Above-ground,Type of Platform,Comment,Stage 0: collecting websites potentially selling accounts,stage 1 filtering: sells accounts?,Stage 2 filtering: are there handles?,stage 3 filtering: can we monitor it automatically?,stage 4: additional measures for automation,stage 5: additional manual collection
+cracked.io,Above-ground,Marketplace,,The Cynicism of Modern Cybercrime,Yes,No handle provided,,,Collected fine-grained data on accounts
+hackforums.net,Above-ground,BlackHat Forum,Pre-screening done: sells accounts,Suggested by other researcher,Yes,No handle provided,,,Collected fine-grained data on accounts
+swapd.co/,Above-ground,Marketplace,Questionable Website (Hard/Not relevant data),"Google search: ""social media accounts for sale""",Yes,No handle provided,,,Collected fine-grained data on accounts
+accszone.com,Above-ground,Shop,Buying only on batch (Does not include any information about accounts),Advertised on blackhat public forum,Yes,No handle provided,,,
+agedprofiles.com,Above-ground,Shop,No handle provided,Advertised on blackhat public forum,Yes,No handle provided,,,
+bulkacc.com/,Above-ground,Shop,No handle provided,Advertised on blackhat public forum,Yes,No handle provided,,,
+digitalchaining.mysellix.io,Above-ground,Shop,No handle provided,Advertised on blackhat public forum,Yes,No handle provided,,,
+"discord.gg/PMJCYxCcCu
+warlordyt.sellpass.io",Above-ground,Shop,"Sells youtube channels, no handle provided",Advertised on blackhat public forum,Yes,No handle provided,,,
+famousinfluencer.com,Above-ground,Shop,,Advertised on blackhat public forum,Yes,No handle provided,,,
+nloaccs.com/,Above-ground,Shop,,Advertised on blackhat public forum,Yes,No handle provided,,,
+www.smmzone24.com,Above-ground,Shop,"Sells account, no detail given, unclear how to buy",Advertised on blackhat public forum,Yes,No handle provided,,,
+acccluster.com/,Above-ground,Shop,Buying only on batch (Does not include any information about accounts),"Google search: ""social media accounts for sale""",Yes,No handle provided,,,
+accsmaster.com/,Above-ground,Shop,Buying only on batch (Does not include any information about accounts),"Google search: ""social media accounts for sale""",Yes,No handle provided,,,
+buyaccs.com,Above-ground,Shop,Buying only on batch (Does not include any information about accounts),Trafficking Fraudulent Accounts,Yes,No handle provided,,,
+getbulkaccounts.com (bulkye.com),Above-ground,Shop,Buying only on batch (Does not include any information about accounts),Trafficking Fraudulent Accounts,Yes,No handle provided,,,
+quickaccounts.bigcartel.com,Above-ground,Shop,Buying only on batch (Does not include any information about accounts),Trafficking Fraudulent Accounts,Yes,No handle provided,,,
+ARES market,Underground,Marketplace,No handle provided,Found in Onion Directory for Mirrors,Yes,No handle provided,,,No account for sale at this time
+Dark Matter,Underground,Marketplace,No handle provided,Found in Onion Directory for Mirrors,Yes,No handle provided,,,Collected fine-grained data on accounts
+Nexus Market,Underground,Marketplace,No handle provided,Found in Onion Directory for Mirrors,Yes,No handle provided,,,Collected fine-grained data on accounts
+Torzon Market,Underground,Marketplace,No handle provided,Found in Onion Directory for Mirrors,Yes,No handle provided,,,Collected fine-grained data on accounts
+Black Pyramid,Underground,Marketplace,,Found in Onion Directory for Mirrors,Yes,No handle provided,,,Collected fine-grained data on accounts
+Kerberos,Underground,Marketplace,No handle provided,Malla,Yes,No handle provided,,,Collected fine-grained data on accounts
+MGM Grand,Underground,Marketplace,No handle provided,Malla,Yes,No handle provided,,,No account for sale at this time
+WeTheNorth,Underground,Marketplace,No handle provided,Malla,Yes,No handle provided,,,Collected fine-grained data on accounts
+accs-market.com/,Above-ground,Marketplace,Anti-Captcha needs to be implemented for the login user,"Google search: ""social media accounts for sale""",Yes,Yes,"No, Login / CAPTCHA",Data collected - CAPTCHAs manually solved,
+fameswap.com/,Above-ground,Marketplace,Anti-Captcha needs to be implemented for the login user,"Google search: ""social media accounts for sale""",Yes,Yes,"No, Login / CAPTCHA",Data collected - CAPTCHAs manually solved,
+www.z2u.com/,Above-ground,Marketplace,Anti-Captcha needs to be implemented for the login user,"Google search: ""social media accounts for sale""",Yes,Yes,"No, Login / CAPTCHA",Data collected - CAPTCHAs manually solved,
+fameseller.com/,Above-ground,Marketplace,Small Data (No code maybe),"Google search: ""social media accounts for sale""",Yes,Yes,Yes (no login),,
+insta-sale.com/listings/,Above-ground,Marketplace,Instagram Accounts,"Google search: ""social media accounts for sale""",Yes,Yes,Yes (no login),,
+accsmarket.com,Above-ground,Shop,,"Google search: ""social media accounts for sale""",Yes,Yes,Yes (no login),,
+buysocia.com/,Above-ground,Shop,Small Data (No code maybe),"Google search: ""social media accounts for sale""",Yes,Yes,Yes (no login),,
+mid-man.com/,Above-ground,Shop,,"Google search: ""social media accounts for sale""",Yes,Yes,Yes (no login),,
+socialtradia.com/,Above-ground,Shop,,"Google search: ""social media accounts for sale""",Yes,Yes,Yes (no login),,
+swapsocials.com/,Above-ground,Shop,,"Google search: ""social media accounts for sale""",Yes,Yes,Yes (no login),,
+www.surgegram.com/,Above-ground,Shop,Instagram Accounts,"Google search: ""social media accounts for sale""",Yes,Yes,Yes (no login),,
+www.toofame.com/,Above-ground,Shop,,"Google search: ""social media accounts for sale""",Yes,Yes,Yes (no login),,
+twiends.com/,Above-ground,BlackHat Forum,This website does not sell Social Media Accounts,Follow the green,"Does not sell accounts (Likes, Followers)",,,,
+leakzone.net /,Above-ground,BlackHat Forum,Cited,Suggested by other researcher,"Does not sell accounts (Likes, Followers)",,,,
+magicsmm.com/,Above-ground,Shop,,Advertised on blackhat public forum,"Does not sell accounts (Likes, Followers)",,,,
+paneliniz.net,Above-ground,Shop,,Advertised on blackhat public forum,"Does not sell accounts (Likes, Followers)",,,,
+smmorigins.com,Above-ground,Shop,,Advertised on blackhat public forum,"Does not sell accounts (Likes, Followers)",,,,
+smmtake.com,Above-ground,Shop,,Advertised on blackhat public forum,"Does not sell accounts (Likes, Followers)",,,,
+bigfollow.net/,Above-ground,Shop,"Does not sell accounts (Likes, Followers)",Follow the green,"Does not sell accounts (Likes, Followers)",,,,
+intertwitter.com/,Above-ground,Shop,"Does not sell accounts (Likes, Followers)",Follow the green,"Does not sell accounts (Likes, Followers)",,,,
+seguidores.com.br,Above-ground,Shop,"Does not sell accounts (Likes, Followers)",Redirect from http://bigfollow.net,"Does not sell accounts (Likes, Followers)",,,,
+Sonanza,Underground,Marketplace,No handle provided,Found in Onion Directory for Mirrors,"Does not sell accounts (Likes, Followers)",,,,
+SuperMarket,Underground,Marketplace,No handle provided,Found in Onion Directory for Mirrors,"Does not sell accounts (Likes, Followers)",,,,
+Quantum Market,Underground,Marketplace,"Does not sell accounts (Likes, Followers)",Found in Onion Directory for Mirrors,"Does not sell accounts (Likes, Followers)",,,,
+Quest Market,Underground,Marketplace,"Does not sell accounts (Likes, Followers)",Found in Onion Directory for Mirrors,"Does not sell accounts (Likes, Followers)",,,,
+smspinverify.com,Above-ground,Shop,Cited,Advertised on blackhat public forum,No social-related goods,,,,
+scrowise.com/,Above-ground,Shop,This website does not sell Social Media Accounts,"Google search: ""social media accounts for sale""",No social-related goods,,,,
+Incognito,Underground,Marketplace,This website does not sell Social Media Accounts,Found in Onion Directory for Mirrors,No social-related goods,,,,
+Alias Market,Underground,Marketplace,This website does not sell Social Media Accounts,Found in Onion Directory for Mirrors,No social-related goods,,,,
+Archetyp,Underground,Marketplace,This website does not sell Social Media Accounts,Found in Onion Directory for Mirrors,No social-related goods,,,,
+City Market,Underground,Marketplace,This website does not sell Social Media Accounts,Found in Onion Directory for Mirrors,No social-related goods,,,,
+Elysium,Underground,Marketplace,This website does not sell Social Media Accounts,Found in Onion Directory for Mirrors,No social-related goods,,,,
+Fish Market,Underground,Marketplace,This website does not sell Social Media Accounts,Found in Onion Directory for Mirrors,No social-related goods,,,,
+Pegasus Market,Underground,Marketplace,This website does not sell Social Media Accounts,Found in Onion Directory for Mirrors,No social-related goods,,,,
+Abacus,Underground,Marketplace,This website does not sell Social Media Accounts,Malla,No social-related goods,,,,
+Skyisthelimitservice@gmail.com​,//,Email,Source,Advertised on blackhat public forum,Private contacts are OoS,,,,
+@BusinessAts on telegram,//,Telegram,Source,Advertised on blackhat public forum,Private contacts are OoS,,,,
+@sheriff_x on telegram,//,Telegram,Source,Advertised on blackhat public forum,Private contacts are OoS,,,,
+t.me/igexpertbhw,//,Telegram,Source,Advertised on blackhat public forum,Private contacts are OoS,,,,
+t.me/lulpola,//,Telegram,Cited (Note: telegram based sale),Advertised on blackhat public forum,Private contacts are OoS,,,,
+t.me/prudentagency11,//,Telegram,Source,Advertised on blackhat public forum,Private contacts are OoS,,,,
+"gunnupg on Discord, gunnupgrades on Telegram",//,"Telegram, Discord",Source,Advertised on blackhat public forum,Private contacts are OoS,,,,
+Whatsapp Number : +1 619 376 28 32,//,Whatsapp,Source,Advertised on blackhat public forum,Private contacts are OoS,,,,
+@MaxRuslan369,//,,Source,Advertised on blackhat public forum,Private contacts are OoS,,,,

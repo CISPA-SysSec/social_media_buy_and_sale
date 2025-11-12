@@ -1,0 +1,15 @@
+"platform","A/U","# posts collected","# accounts","# platforms","which platforms","min subs, max s.","other","type of seller","# sellers","cross-postings","# cross-posting platforms","min price","max price","avg price","median","oldest post","newest post","auction","range","crypto only payment"
+"Kerberos","U",2,51,2,"tiktok, twitter","//",,"private",2,"T",2,0.78,5.99,3.39,3.39,"//","//",0,0,0
+"Dark Matter","U",5,5,3,"youtube, tiktok, twitter","//","//","private",3,"T",2,5.99,12.47,9.69,10,"//","//",0,0,0
+"Nexus","U",37,37,3,"instagram, twitter, tiktok","40, 170K followers","real, aged, email-verified","private",4,"T",2,11,"1,500.00",115.53,20,"//","//",0,0,0
+"Torzon Market","U",4,4,3,"instagram, tiktok, youtube","//","aged","private",2,"T",2,12.48,72.8,37.7,32.76,"//","//",0,0,0
+"black pyramid","U",2,2,1,"youtube","//","//","private",2,"T",2,9,103,56,56,"//","//",0,0,0
+"We The North","U",15,15,1,"tiktok","2.9K, 42.4K followers","real, aged, email-verified","private",1,"Y",2,33.6,"2,289.00",155.66,67.2,"//","//",0,0,0
+"ARES market","U","//","//","//","//","//","//","//","//","//","//","//","//","//","//","//","//",0,0,0
+"MGM Grand","U","//","//","//","//","//","//","//","//","//","//","//","//","//","//","//","//",0,0,0
+,,,,,,,,,,,,,,,,,,,,
+"platform","A/U","# posts collected","# accounts","# platforms","which platforms","min subs, max s.","other","type of seller","# sellers","cross-postings","# cross-posting platforms","min price","max price","avg price","median","oldest post","newest post","auction","range","crypto only payment"
+"twitter",,3,3,3,"dark matter, kerberos, nexus",,,"private",3,"T",0,5.99,15,8.99,5.99,"//","//",0,0,0
+"youtube",,7,7,3,"black pyramid, dark matter, torzon",,,"private",6,"T",0,10,72.8,33.1,12.47,"//","//",0,0,0
+"instagram",,13,13,2,"nexus, torzon","40, 1k followers","real, aged, need to do verification","private",4,"T",0,11,267,48.93,16,"//","//",0,0,0
+"tiktok",,42,51,5,"torzon, kerberos, nexus, we the north, dark matter","1k, 170K followers","aged, email verified, partially filled","private",9,"T","?",0.78,"2,289.00",142.94,49.87,2022,"2023.10.08",0,0,0

@@ -1,0 +1,7 @@
+# adjust to your env config
+env:
+  output_dir: "/mnt/ramdisk/"
+  chromedriver: "/usr/bin/chromedriver" 
+  headless: true
+  debug: false
+
